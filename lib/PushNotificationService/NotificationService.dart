@@ -15,7 +15,7 @@ class NotificationServices {
 
   //function to initialise flutter local notification plugin to show notifications for android when app is active
   void initLocalNotifications(BuildContext context, RemoteMessage message)async{
-    var androidInitializationSettings = const AndroidInitializationSettings('@mipmap/ic_launcher');
+    var androidInitializationSettings = const AndroidInitializationSettings('playstore');
     var iosInitializationSettings = const DarwinInitializationSettings();
 
     var initializationSetting = InitializationSettings(
@@ -98,7 +98,9 @@ class NotificationServices {
         priority: Priority.high ,
         playSound: true,
         ticker: 'ticker' ,
-        sound: channel.sound
+        sound: channel.sound,
+       icon: 'playstore'
+
        // sound: RawResourceAndroidNotificationSound('jetsons_doorbell')
       //  icon: largeIconPath
     );
