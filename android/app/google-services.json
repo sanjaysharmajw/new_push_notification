@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "660117867974",
-    "project_id": "jiveda-abd80",
-    "storage_bucket": "jiveda-abd80.firebasestorage.app"
+    "project_number": "955348582169",
+    "project_id": "jiveda-51558",
+    "storage_bucket": "jiveda-51558.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:660117867974:android:35c5e8046a03bf78fcb6c7",
+        "mobilesdk_app_id": "1:955348582169:android:a955e5d67762dc43480f88",
         "android_client_info": {
           "package_name": "com.example.new_push_notification"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDOBkwR_TP7UE8buBTimZsoDrea9lDksc4"
+          "current_key": "AIzaSyATmwfb9r6Wq6hlhPPNnXVxwqO-IKqwVZI"
         }
       ],
       "services": {
@@ -26,15 +26,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:660117867974:android:a4af93eb75f4639dfcb6c7",
+        "mobilesdk_app_id": "1:955348582169:android:8d9d123c7dd85b1d480f88",
         "android_client_info": {
-          "package_name": "com.jiveda_health_lms.app"
+          "package_name": "com.jiveda_lms.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDOBkwR_TP7UE8buBTimZsoDrea9lDksc4"
+          "current_key": "AIzaSyATmwfb9r6Wq6hlhPPNnXVxwqO-IKqwVZI"
         }
       ],
       "services": {
